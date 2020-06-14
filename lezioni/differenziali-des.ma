@@ -1,3 +1,5 @@
+(* starting point to compute differentials is the Sbox *)
+(* in DES we have 8 sboxes from 6 bits to 4 bits       *)
 
 n = 6;
 m = 4;
